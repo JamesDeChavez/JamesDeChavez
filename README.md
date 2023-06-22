@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Single Page Recipes](https://www.singlepagerecipes.com/)
 
-- 🌱 I’m currently studying to obtain my **AWS Solutions Architect Associate Certification**
+- 🌱 I’m recently obtained my **AWS Solutions Architect Associate Certification (SSA-C03)**
 
 - 👨‍💻 All of my projects are available at [https://jdechavez.com/](https://jdechavez.com/)
 
