@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on [Speed Knight Challenge](https://www.speedknightchallenge.com/)
 
-- 🌱 I recently obtained my **AWS Solutions Architect Associate Certification (SSA-C03)**
+- ⭐ I recently obtained my **AWS Solutions Architect Associate Certification (SSA-C03)**
 
-- ⭐ I am currently studying to obtain my **CompTIA Security+ Certification (SY0-601)**
+- 🌱 I am currently studying to obtain my **CompTIA Security+ Certification (SY0-601)**
 
 - 👨‍💻 All of my projects are available at [https://jdechavez.com/](https://jdechavez.com/)
 
