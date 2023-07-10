@@ -1,13 +1,15 @@
 <h1 align="center">Hi 👋, I'm James DeChavez</h1>
 <h3 align="center">Software Engineer from Seattle, WA</h3>
 
-- 🔭 I’m currently working on [Single Page Recipes](https://www.singlepagerecipes.com/)
+- 🔭 I’m currently working on [Speed Knight Challenge](https://www.speedknightchallenge.com/)
 
 - 🌱 I recently obtained my **AWS Solutions Architect Associate Certification (SSA-C03)**
 
+- ⭐ I am currently studying to obtain **CompTIA Security+ Certification (SY0-601)**
+
 - 👨‍💻 All of my projects are available at [https://jdechavez.com/](https://jdechavez.com/)
 
-- 📫 How to reach me **jamesdechavez23@gmail.com**
+- 📫 You can message me at **jamesdechavez23@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
